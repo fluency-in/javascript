@@ -4,9 +4,9 @@ Write a program that, given a string representing a matrix of numbers, can retur
 
 So given a string with embedded newlines like:
 
-> 9 8 7
-> 5 3 2
-> 6 6 7
+> 9 8 7  
+> 5 3 2  
+> 6 6 7  
 
 representing this matrix:
 

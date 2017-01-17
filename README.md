@@ -115,7 +115,7 @@ The README.md file for each exercise explains in more detail what the exercise i
   Compute the prime factors of a given natural number.
 
   **raindrops**
-  Write a program that converts a number to a string, the contents of which depends on the number's factors.
+  Write a program that converts a number to a string, the contents of which depend on the number's factors.
 
   **allergies**
   Write a program that, given a person's allergy score, can tell them whether or not they're allergic to a given item, and their full list of allergies.
@@ -157,7 +157,7 @@ The README.md file for each exercise explains in more detail what the exercise i
   Write a program that will take a string of digits and give you all the contiguous substrings of length `n` in that string.
 
   **difference-of-squares**
-  Find the difference between the sum of the squares and the square of the sums of the first N natural numbers.
+  Find the difference between the sum of the squares and the square of the sum of the first N natural numbers.
 
   **secret-handshake**
   Write a program that will take a decimal number, and convert it to the appropriate sequence of events for a secret handshake.
@@ -166,10 +166,10 @@ The README.md file for each exercise explains in more detail what the exercise i
   Implement a doubly linked list
 
   **wordy**
-  Write a program that takes a word problem and returns the answer as an integer.
+  Parse and evaluate simple math word problems returning the answer as an integer.
 
   **flatten-array**
-  Write a program that will take a nested list and returns a single list with all values except nill/null
+  Write a program that will take a nested list and returns a single list with all values except nil/null
 
   **hexadecimal**
   Write a program that will convert a hexadecimal number, represented as a string (e.g. "10af8c"), to its decimal equivalent using first principles (i.e. no, you may not use built-in or external libraries to accomplish the conversion).
@@ -230,6 +230,15 @@ The README.md file for each exercise explains in more detail what the exercise i
 
   **bowling**
   Score a bowling game
+
+  **diamond**
+  Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.
+
+  **all-your-base**
+  Write a program that will convert a number, represented as a sequence of digits in one base, to any other base.
+
+  **run-length-encoding**
+  Implement run-length encoding and decoding.
 
 
 ## Source

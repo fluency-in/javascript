@@ -1,8 +1,8 @@
 # Flatten Array
 
-Write a program that will take a nested list and returns a single list with all values except nill/null
+Write a program that will take a nested list and returns a single list with all values except nil/null
 
-The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure and returns a flattened structure without any null/nill values. 
+The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure and returns a flattened structure without any nil/null values.
  
 For Example
 
